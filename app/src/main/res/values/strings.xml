@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TestReader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+    <string name="share_title">分享文章</string>
+    <string name="first_page_toast">已到达第一页</string>
+    <string name="last_page_toast">已到达最后一页</string>
+</resources>
